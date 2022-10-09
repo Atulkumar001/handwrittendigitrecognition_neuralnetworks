@@ -6,7 +6,7 @@
 
 For this project I used the MNIST dataset. It is freely available on the Internet.
 
-Requirements:
+**Requirements:
 
 # Python 3
 # Sklearn
