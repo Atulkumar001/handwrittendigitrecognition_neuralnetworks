@@ -5,8 +5,8 @@
 For this project I used the MNIST dataset. It is freely available on the Internet.
 Requirements:
 
-## Python 3
-## Sklearn
-## OpenCV 3
-## numpy
-## Jupyter-Notebook
+### Python 3
+### Sklearn
+### OpenCV 3
+### numpy
+### Jupyter-Notebook
