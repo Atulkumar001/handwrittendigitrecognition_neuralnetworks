@@ -8,8 +8,8 @@ For this project I used the MNIST dataset. It is freely available on the Interne
 
 **Requirements:
 
-# Python 3
-# Sklearn
-# OpenCV 3
-# numpy
-# Jupyter-Notebook
+ Python3
+ sklearn
+ numpy
+ Jupyter-Notebook
+
