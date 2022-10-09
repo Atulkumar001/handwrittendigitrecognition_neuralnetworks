@@ -6,10 +6,10 @@
 
 For this project I used the MNIST dataset. It is freely available on the Internet.
 
-**Requirements:
+# Requirements:
 
- Python3
- sklearn
- numpy
- Jupyter-Notebook
+ # Python3
+ # sklearn
+ # numpy
+ # Jupyter-Notebook
 
